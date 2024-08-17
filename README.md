@@ -3,9 +3,7 @@
 
 ---
 
-<p align="center">
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pid24&title=Visitor)](https://hits.seeyoufarm.com)
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=rofid&style=flat-square)
 
 ### 🛠️ Languages and Tools:
 <p align="left">
