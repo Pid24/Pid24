@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=pid24.pid24)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pid24&title=Visitor)](https://hits.seeyoufarm.com)
 </p>
 
 ### 🛠️ Languages and Tools:
