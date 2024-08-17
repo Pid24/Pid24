@@ -19,7 +19,7 @@
 
 ### 🎶 Spotify Now Playing:
 <p align="left">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pidd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317oxlcqfhydoohaazmpaiehfbre&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
 
 ---
