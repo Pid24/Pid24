@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=pid24.pid24)
+</p>
+
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
