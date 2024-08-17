@@ -1,6 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Rofid Nasif Annafie</h1>
 <h3 align="center">Just a man who becomes a success</h3>
-🛠️ Languages and Tools:
+
+---
+
+### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -11,17 +14,24 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-🎶 Listening to:
+
+---
+
+### 🎶 Spotify Now Playing:
 <p align="left">
-  <a href="https://youtu.be/yb47lT8LdWY" target="_blank">
-    <img src="https://img.shields.io/badge/Bernadya-Satu%20Bulan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Bernadya - Satu Bulan" />
-  </a>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=pidd&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
 </p>
-📊 GitHub Stats:
+
+---
+
+### 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pid24&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-🌐 Connect with Me:
+
+---
+
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/rofid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/pid24" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
