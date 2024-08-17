@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rofid Nasif Annafie</h1>
-<h3 align="center">A passionate Web Developer and Student from Indonesia</h3>
+<h3 align="center">Just a man who become a success</h3>
 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -14,7 +14,6 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pid24&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pid24&show_icons=true&locale=en" alt="pid24's GitHub Stats" /></p>
 🌐 Connect with Me:
 <p align="left">
   <a href="https://linkedin.com/in/rofid" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
