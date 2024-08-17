@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
+🎶 Listening to:
+<p align="left">
+  <a href="https://youtu.be/yb47lT8LdWY" target="_blank">
+    <img src="https://img.shields.io/badge/Bernadya-Satu%20Bulan-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Bernadya - Satu Bulan" />
+  </a>
+</p>
 📊 GitHub Stats:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pid24&show_icons=true&locale=en&layout=compact" alt="Top Langs" />
