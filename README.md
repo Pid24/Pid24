@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Rofid Nasif Annafie</h1>
-<h3 align="center">Just a man who becomes a success ![Visitor Count](https://komarev.com/ghpvc/?username=rofid&style=flat-square)</h3>
+<h3 align="center">Just a man who becomes a success</h3>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rofid&style=flat-square)
 
 ---
 
