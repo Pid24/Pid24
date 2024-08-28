@@ -1,5 +1,4 @@
 <h1 align="center">Hi there 👋, I'm Rofid Nasif Annafie</h1>
-<h3 align="center">Just a man who becomes a success</h3>
  
 ---
 
