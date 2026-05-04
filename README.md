@@ -66,13 +66,10 @@ I am a passionate **Software Engineer** dedicated to building scalable web appli
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pid24&show_icons=true&theme=radical&hide_border=true&title_color=0077B5" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pid24&layout=compact&theme=radical&hide_border=true&title_color=0077B5" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pid24&theme=radical&hide_border=true&stroke=0077B5" alt="GitHub Streak" />
-</p>
+
 
 ---
 
