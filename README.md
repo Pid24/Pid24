@@ -71,7 +71,7 @@ I am a passionate **Software Engineer** dedicated to building scalable web appli
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pid24&theme=radical&hide_border=true&stroke=0077B5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=pid24&theme=radical&hide_border=true&stroke=0077B5" alt="GitHub Streak" />
 </p>
 
 ---
